@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(to right, #3498db, #e74c3c); /* Blue to Red Gradient */
+    height: 100vh; /* Make it cover the entire viewport height */
+    margin: 0; /* Remove default margin to fill the screen */
+    padding: 0; /* Remove default padding */
+    text-align: center;
+  }
